@@ -1,1 +1,1 @@
-# detertech-challenge
+detertech-challenge
